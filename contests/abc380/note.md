@@ -1,1 +1,1 @@
-https://atcoder.jp/contests/abc380
+[Contest Page](https://atcoder.jp/contests/abc380)
